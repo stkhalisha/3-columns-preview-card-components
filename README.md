@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/stkhalisha/3-columns-preview-card-components)
-- Live Site URL: [Live site URL here](https://stkhalisha.github.io/3-columns-preview-card-components/)
+- Live Site URL: [Live site URL here](https://stkhalisha-3-columns-preview-card-components.vercel.app/)
 
 ### Built with
 
